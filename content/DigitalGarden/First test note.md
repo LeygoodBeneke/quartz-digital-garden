@@ -4,9 +4,21 @@ Titledraft: false
 tags:
   - -example-tag
 ---
+
+
+# Code style
+
+``` c++
+#include <iostream>
+int main() {
+	std:: cout << "Hello, world!";
+	return 0;
+}
+```
+
 # Authoring Content
 
-Feb 26, 2024, 2 min read
+
 
 
  already, this folder should already be initialized. Any Markdown in this folder will get processed by Quartz.
