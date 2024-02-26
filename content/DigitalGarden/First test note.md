@@ -4,7 +4,9 @@ Titledraft: false
 tags:
   - -example-tag
 ---
+# Excalidraw
 
+![[Drawing 2024-02-26 10.15.16.excalidraw]]
 
 # Code style
 
