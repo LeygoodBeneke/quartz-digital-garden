@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Digital garden
+tags:
+  - main
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Полезные материалы
+* [[Семестр 2. Лекция 1.]]
+* [[First test note]]
