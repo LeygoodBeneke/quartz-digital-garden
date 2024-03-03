@@ -6,3 +6,4 @@ tags:
 # Полезные материалы
 - [[Сопромат/Navigation|Сопромат]]
 - [[Java/Navigation|Java]]
+- [[Tips]]
