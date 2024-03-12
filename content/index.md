@@ -7,3 +7,5 @@ tags:
 - [[Сопромат/Navigation|Сопромат]]
 - [[Java/Navigation|Java]]
 - [[Tips]]
+
+[[Tips|new link]]
